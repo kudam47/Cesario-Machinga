@@ -1,0 +1,6 @@
+c:\users\shingie\documents\visual studio 2013\Projects\micro_bank_code\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\users\shingie\documents\visual studio 2013\Projects\micro_bank_code\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\shingie\documents\visual studio 2013\Projects\micro_bank_code\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\shingie\documents\visual studio 2013\Projects\micro_bank_code\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+c:\users\shingie\documents\visual studio 2013\Projects\micro_bank_code\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\users\shingie\documents\visual studio 2013\Projects\micro_bank_code\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
